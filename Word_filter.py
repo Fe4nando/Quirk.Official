@@ -1,0 +1,13 @@
+word=(
+ 'fuck','Fuck','FUCK',
+ 'bitch','Bitch','BITCH',
+ 'shit','Shit','SHIT',
+ 'gay','Gay','GAY',
+ 'pussy','Pussy','PUSSY',
+ 'nigga','Nigga','NIGGA',
+ 'penis','Penis','PENIS',
+ 'cum','Cum','CUM',
+ 'porn','Porn','PORN',
+ 'cyka','Cyka','CYKA',
+ 'blyat','Blyat','BLYAT',
+ 'retard','Retard',"RETARD")
